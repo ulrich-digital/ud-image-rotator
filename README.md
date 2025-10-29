@@ -16,9 +16,6 @@ Ideal für visuelle Highlights, Banner oder saisonale Aktionen, die sich automat
 
 ---
 
-![Editor-Ansicht](./assets/ud-image-rotator.png)
-*Abbildung: Editor-Ansicht*
-
 ![Editor-Ansicht](./assets/ud-image-rotator_02.png)
 *Abbildung: Editor-Ansicht*
 
