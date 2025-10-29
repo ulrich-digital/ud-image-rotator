@@ -1,0 +1,19 @@
+{
+  "name": "image-rotator-ud",
+  "version": "1.0.0",
+  "description": "Ein Block zur Anzeige eines zufälligen Bildes mit optionalem Button und Sichtbarkeitszeitraum.",
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "start": "webpack --watch --config webpack.config.js"
+  },
+  "author": "ulrich.digital",
+  "license": "GPL-2.0-or-later",
+  "devDependencies": {
+    "@wordpress/scripts": "^30.15.0"
+  },
+  "dependencies": {
+    "@wordpress/icons": "^10.22.0",
+    "@wordpress/media-utils": "^5.24.0",
+    "gsap": "^3.13.0"
+  }
+}

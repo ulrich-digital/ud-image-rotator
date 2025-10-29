@@ -1,0 +1,47 @@
+{
+    "apiVersion": 2,
+    "name": "ud/image-rotator",
+    "title": "Bild-Rotator mit Button",
+    "category": "media",
+    "icon": "format-image",
+    "description": "Zeigt zufällig ein Bild, optional mit Button und Text.",
+    "textdomain": "ud-plugin",
+    "editorStyle": "file:./build/editor-style.css",
+    "style": "file:./build/frontend-style.css",
+    "editorScript": "file:./build/editor-script.js",
+    "script": "file:./build/frontend-script.js",
+    "attributes": {
+        "images": {
+            "type": "array",
+            "default": []
+        },
+        "text": {
+            "type": "string",
+            "default": ""
+        },
+        "buttonUrl": {
+            "type": "string",
+            "default": ""
+        },
+        "buttonLabelLine1": {
+            "type": "string",
+            "default": ""
+        },
+        "buttonLabelLine2": {
+            "type": "string",
+            "default": ""
+        },
+        "enableDateRange": {
+            "type": "boolean",
+            "default": false
+        },
+        "startDate": {
+            "type": "string",
+            "default": ""
+        },
+        "endDate": {
+            "type": "string",
+            "default": ""
+        }
+    }
+}
