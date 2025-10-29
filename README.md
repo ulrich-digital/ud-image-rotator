@@ -34,7 +34,7 @@ Ideal für visuelle Highlights, Banner oder saisonale Aktionen, die sich automat
 
 ---
 
-## 🖥️ Verwendung
+## Verwendung
 
 1. Im Editor den Block **„Bild-Rotator mit Button“** hinzufügen.
 2. Eine oder mehrere Bilder auswählen.
@@ -46,7 +46,7 @@ Ideal für visuelle Highlights, Banner oder saisonale Aktionen, die sich automat
 
 ---
 
-## 🪪 Lizenz
+## Lizenz
 
 GPL v2 or later
 © ulrich.digital gmbh – [https://ulrich.digital](https://ulrich.digital)
