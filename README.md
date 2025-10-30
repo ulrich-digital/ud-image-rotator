@@ -15,6 +15,10 @@ Ideal für visuelle Highlights, Banner oder saisonale Aktionen, die sich automat
 - Kompatibel mit Full Site Editing (FSE)
 
 ---
+## Screenshots
+
+![Frontend-Ansicht](./assets/ud-image-rotator.png)
+*Ansicht im Frontend*
 
 ![Editor-Ansicht](./assets/ud-image-rotator_02.png)
 *Abbildung: Editor-Ansicht*
