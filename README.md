@@ -6,9 +6,9 @@ Ideal für visuelle Highlights, Banner oder saisonale Aktionen, bei denen der Bu
 
 ## Funktionen
 
-- Zeigt ein zufälliges oder festes Bild aus einer definierten Liste
-- Textfeld für Slogans oder kurze Botschaften
-- Button *optional verlinkt*, dauerhaft oder zeitgesteuert
+- Bilder: zufälliges Bild aus einer definierten Liste
+- Textfeld: für Slogans oder kurze Botschaften
+- Button: optional verlinkt, dauerhaft oder zeitgesteuert
 - Serverseitige Ausgabe mit Fallback, falls kein Bild aktiv ist
 - Kompatibel mit Full Site Editing (FSE)
 
