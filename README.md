@@ -1,15 +1,15 @@
 # UD Block: Image Rotator
 
-Ein Block zur Anzeige von wechselnden oder zufälligen Bildern – optional mit Text und Button.
-Ideal für visuelle Highlights, Banner oder saisonale Aktionen, die sich automatisch austauschen lassen.
+Ein Block zur Anzeige von wechselnden oder zufälligen Bildern mit optionalem Textfeld und Button.
+Ideal für visuelle Highlights, Banner oder saisonale Aktionen, bei denen der Button zeitgesteuert eingeblendet werden kann.
 
 
 ## Funktionen
 
 - Zeigt ein zufälliges oder festes Bild aus einer definierten Liste
-- Optionaler Text und Button unter dem Bild
-- Zweizeilige Button-Beschriftung möglich
-- Zeitsteuerung über Start- und Enddatum (z. B. für saisonale Inhalte)
+- Textfeld im unteren Bereich des Bildes
+- Button im oberen rechten Bereich
+- Button kann zeitgesteuert (Start-/Enddatum) oder dauerhaft angezeigt werden
 - Serverseitige Ausgabe mit Fallback, falls kein Bild aktiv ist
 - Kompatibel mit Full Site Editing (FSE)
 
