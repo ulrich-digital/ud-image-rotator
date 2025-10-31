@@ -8,7 +8,7 @@ Ideal für visuelle Highlights, Banner oder saisonale Aktionen, bei denen der Bu
 
 - Zeigt ein zufälliges oder festes Bild aus einer definierten Liste
 - Textfeld für Slogans oder kurze Botschaften
-- Optional verlinkter Button, dauerhaft oder zeitgesteuert (Start-/Enddatum)
+- Button *optional verlinkt*, dauerhaft oder zeitgesteuert
 - Serverseitige Ausgabe mit Fallback, falls kein Bild aktiv ist
 - Kompatibel mit Full Site Editing (FSE)
 
