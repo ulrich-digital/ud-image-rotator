@@ -7,9 +7,8 @@ Ideal für visuelle Highlights, Banner oder saisonale Aktionen, bei denen der Bu
 ## Funktionen
 
 - Zeigt ein zufälliges oder festes Bild aus einer definierten Liste
-- Textfeld im unteren Bereich des Bildes
-- Button im oberen rechten Bereich
-- Button kann zeitgesteuert (Start-/Enddatum) oder dauerhaft angezeigt werden
+- Textfeld für Slogans oder kurze Botschaften
+- Optional verlinkter Button, dauerhaft oder zeitgesteuert (Start-/Enddatum)
 - Serverseitige Ausgabe mit Fallback, falls kein Bild aktiv ist
 - Kompatibel mit Full Site Editing (FSE)
 
