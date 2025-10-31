@@ -4,7 +4,6 @@ Ein Block zur Anzeige von wechselnden oder zufälligen Bildern – optional mit 
 Ideal für visuelle Highlights, Banner oder saisonale Aktionen, die sich automatisch austauschen lassen.
 
 
-
 ## Funktionen
 
 - Zeigt ein zufälliges oder festes Bild aus einer definierten Liste
@@ -21,16 +20,7 @@ Ideal für visuelle Highlights, Banner oder saisonale Aktionen, die sich automat
 *Ansicht im Frontend*
 
 ![Editor-Ansicht](./assets/ud-image-rotator_02.png)
-*Abbildung: Editor-Ansicht*
-
-
-
-
-
-
-
-
-
+*Editor-Ansicht*
 
 
 ## Autor
